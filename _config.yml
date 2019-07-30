@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: 1 2 Tri FUN!
+email: klich.lukasz@gmail.com
+github_username: kleewho
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
