@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Triathlon Kędzierzyn Koźle"
-date:   2019-07-28 12:33:00
+date:   2019-08-06 22:21:00
 categories: triathlon zawody
 tags: [1/4]
 ---
@@ -11,7 +11,7 @@ tags: [1/4]
 ## Wstępniaczek
 Pomimo tego, że od marca przygotowywałem się do triathlonu to tak naprawdę nie miałem wybranych startów. Starty zależały bardziej od dyspozycji mojej stopy, z którą przez jakiś czas miałem problemy. Tak też rozpocząłem treningi do triathlony w marcu nie wiedziąc kiedy wystartuję, bo też nie wiedziałem kiedy rozpocznę treningi biegowe. Więc może uznajmy, że zacząłem treningi pod bi(ke)quathlon ;)
 
-O triathlonie w Kędzierzynie dowiedziałem się od kolegi Mariusza, który chciał wystartować jako sztafeta Harpagan Sosnowiec, jeszcze razem z moim partnerem treningowym Krzysztofem. Po kilku dniach namysłu postanowiłem wystartować indywidualnie, bo stopa działała, a termin mniej więcej pokrywał się z kulminacją planu treningowego. Do sztafety natomiast zgłosili się Harpagani w składzie: Krzysztof - pływanie, Mariusz - rower, Paulina - bieganie. Wszyscy jedziemy jednym samochodem.
+O triathlonie w Kędzierzynie dowiedziałem się od kolegi Mariusza, który chciał wystartować jako sztafeta Harpagan Sosnowiec, jeszcze razem z moim partnerem treningowym Krzysztofem. Po kilku dniach namysłu postanowiłem wystartować indywidualnie, bo stopa działała, a termin 28.07.2019 mniej więcej pokrywał się z kulminacją planu treningowego. Do sztafety natomiast zgłosili się Harpagani w składzie: Krzysztof - pływanie, Mariusz - rower, Paulina - bieganie. Wszyscy jedziemy jednym samochodem.
 
 Start zawodów, strefy zmian i cała część biegowa odbywała się na wyspie. Naturalnie pływać na wyspie się nie da, a rowerem byliśmy na niej tylko przez chwilę. Bardzo przyjemna lokalizacja, z dużą ilością częściowo strawionego siana, czy co tam konie jedzą ;) Część trasy biegowej prowadziła nawet przez wnętrza stajni, gdzie było fantastycznie chłodno.
 
